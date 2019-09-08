@@ -42,14 +42,14 @@ e retorna à função Main o valor de zero e este é impresso em tela.
 
 
 <h3><b>Sugestão para redução de linhas de código:</b></h3>
-
+<xmp>
 Alteração do método Calcular para:
 
 	static int Calcular(int numero)
 	{
 		return numero <= 0 ? 0 : numero * Calcular(numero-1);
 	}
-
+	</xmp>
 	<hr>
 
 	<b><h3>Exercício 2</h3></b>
