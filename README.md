@@ -38,3 +38,15 @@ Passo 10- Else: resultado = 1 * calcular(1-1);
 
 Passo 11- Função "Calcular" recebe o valor 0, realiza teste lógico e entra no cenário positivo, onde zero é igual à zero
 e retorna à função Main o valor de zero e este é impresso em tela.
+
+
+
+Sugestão para redução de linhas de código:
+
+Alteração do método Calcular para:
+
+	static int Calcular(int numero)
+	{
+		return numero <= 0 ? 0 : numero * Calcular(numero-1);
+	}
+
