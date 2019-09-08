@@ -69,7 +69,11 @@ using System.Threading.Tasks;
                 Imprimir(matrizPrincipal, totalColunas);
                 Console.ReadKey();
             }
-
+            /// <summary>
+            /// Método utilizado para impressão de matrizes
+            /// </summary>
+            /// <param name="matriz">Matriz a ser impressa</param>
+            /// <param name="qtdColunas">Quantidade de colunas</param>
             static void Imprimir(string[,] matriz, int qtdColunas)
             {
                 for (int linha = 0; linha < 3; linha++)
