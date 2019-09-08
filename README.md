@@ -58,3 +58,9 @@ Alteração do método Calcular para:
 	O exercício 2 trata-se do código fonte referente à este projeto.
 	
 	
+O exercício foi implementado em:
+Microsoft Visual Studio Professional 2019
+Versão 16.1.6
+VisualStudio.16.Release/16.1.6+29102.190
+Microsoft .NET Framework
+Versão 4.8.03752
