@@ -41,7 +41,7 @@ e retorna à função Main o valor de zero e este é impresso em tela.
 
 
 
-Sugestão para redução de linhas de código:
+<b>Sugestão para redução de linhas de código:</b>
 
 Alteração do método Calcular para:
 
