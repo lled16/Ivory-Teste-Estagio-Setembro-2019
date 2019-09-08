@@ -1,0 +1,11 @@
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\bin\Debug\netcoreapp2.1\teste-estagio-ivory-2.deps.json
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\bin\Debug\netcoreapp2.1\teste-estagio-ivory-2.runtimeconfig.json
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\bin\Debug\netcoreapp2.1\teste-estagio-ivory-2.runtimeconfig.dev.json
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\bin\Debug\netcoreapp2.1\teste-estagio-ivory-2.dll
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\bin\Debug\netcoreapp2.1\teste-estagio-ivory-2.pdb
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\obj\Debug\netcoreapp2.1\teste-estagio-ivory-2.csprojAssemblyReference.cache
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\obj\Debug\netcoreapp2.1\teste-estagio-ivory-2.csproj.CoreCompileInputs.cache
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\obj\Debug\netcoreapp2.1\teste-estagio-ivory-2.AssemblyInfoInputs.cache
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\obj\Debug\netcoreapp2.1\teste-estagio-ivory-2.AssemblyInfo.cs
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\obj\Debug\netcoreapp2.1\teste-estagio-ivory-2.dll
+C:\Users\JoaoBk\source\repos\teste-estagio-ivory-2\teste-estagio-ivory-2\obj\Debug\netcoreapp2.1\teste-estagio-ivory-2.pdb
