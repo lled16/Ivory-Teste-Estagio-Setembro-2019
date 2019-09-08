@@ -52,7 +52,9 @@ Alteração do método Calcular para:
 	}
 ```
 	
-	
-	<b><h3>Exercício 2</h3></b>
+
+<hr />
+<h3><b>Exercício 2:</b></h3>
 	O exercício 2 trata-se do código fonte referente à este projeto.
+	
 	
