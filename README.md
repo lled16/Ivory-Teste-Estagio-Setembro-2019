@@ -50,7 +50,7 @@ Alteração do método Calcular para:
 		return numero <= 0 ? 0 : numero * Calcular(numero-1);
 	}
 
-	<hr/>
+	<hr>
 
 	<b><h3>Exercício 2</h3></b>
 	O exercício 2 trata-se do código fonte referente à este projeto.
