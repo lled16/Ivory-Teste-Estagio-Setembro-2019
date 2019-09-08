@@ -1,5 +1,5 @@
 # ivory-teste-estagio-setembro-2019
-Exercício 1: 
+<h3><b>Exercício 1:</b></h3> 
 
 Objetivo: Teste de análise de conhecimento para vaga de estágio, o objetivo do código é realizar um cálculo numérico usando recursividade.
 
@@ -14,7 +14,7 @@ Em sua execução é declarada uma variável local do tipo Inteiro chamada resul
 
 4- É realizado um teste lógico para verificar se o parâmetro "numero" é menor ou igual a zero. Em caso positivo, o método retorna o valor zero, caso contrário, ele atribui à variável resultado o valor de "numero" multiplicado pelo próprio método calcular " de forma recursiva" passando como parâmetro o valor de número decrementando 1 de seu valor. Retornando assim o valor calculado através da variável resultado.
 
-Processo de execução:
+<h3><b>Processo de execução:</b></h3>
 
 Passo 1- Função "Calcular" recebe o valor 5, realiza teste lógico e entra no cenário de negação.
 
@@ -41,7 +41,7 @@ e retorna à função Main o valor de zero e este é impresso em tela.
 
 
 
-<b>Sugestão para redução de linhas de código:</b>
+<h3><b>Sugestão para redução de linhas de código:</b></h3>
 
 Alteração do método Calcular para:
 
